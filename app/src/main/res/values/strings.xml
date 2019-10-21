@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practica_2_Calculadora</string>
+    <string name="ok_button">ok</string>
+    <string name="result">resultado</string>
+
+    <string-array name="operations" >
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
